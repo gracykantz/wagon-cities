@@ -28,7 +28,7 @@
     "react-dom": "16.2",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2",
-    "yarn": "^1.16.0"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "webpack-dev-server --mode development",
